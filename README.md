@@ -23,4 +23,18 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" width="200" height="80"/> 
 
 <p><a href="https://www.linkedin.com/in/kentendanas/">Kenten Danas from Astronomer</a></p>
-<p>Tuesday, June 15, 2021
+<p>Tuesday, June 15, 2021</p>
+
+</br>
+<p><a href="https://www.meetup.com/PyLadies-Hamburg/events/278395525/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Meetup_long.png" width="100" height="40"/></a>
+</p>
+
+ 
+ 
+ 
+ 
+<p align="left">Resources</p> 
+ 
+
+
+
