@@ -17,3 +17,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<hr>
+<h2> Introduction to Apache Airflow Workshop </h2>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/800px-AirflowLogo.png" width="200" height="80"/> 
+
+<p><a href="https://www.linkedin.com/in/kentendanas/">Kenten Danas from Astronomer</a></p>
+<p>Tuesday, June 15, 2021
